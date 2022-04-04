@@ -1,0 +1,10 @@
+body , html{
+    height: 100%;
+    margin: 0px;
+
+}
+
+nav li {
+    display: inline;
+    margin : 20px;
+}
